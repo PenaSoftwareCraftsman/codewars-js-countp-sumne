@@ -10,6 +10,6 @@ describe("countPositivesSumNegatives", ()=>{
     });
 
     it('Should return [2] when the input is [1, 1]', () => {
-        expect(countPositivesSumNegatives([1, 1])).toStrictEqual([2]);
+        expect(countPositivesSumNegatives([1, 1])).toStrictEqual([2, 0]);
     });
 })
