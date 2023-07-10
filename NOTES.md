@@ -22,5 +22,8 @@ Find the positive numbers and count them
 TODO:
 
 # Pomodoro 1 🍅:
-    - Domain search
-    - 
+    - Domain search ✅
+    - Readme updated ✅
+    - Test: 
+        - Create: Should return a empty array if the input is null ✅
+        - Solve test: Should return a empty array if the input is null 🚧
