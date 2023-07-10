@@ -1,0 +1,26 @@
+{
+  "name": "codewars-js-countp-sumne",
+  "version": "1.0.0",
+  "description": "Return an array, where the first element is the count of positives numbers and the second element is sum of negative numbers.",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^29.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll --coverage=true --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PenaSoftwareCraftsman/codewars-js-countp-sumne.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PenaSoftwareCraftsman/codewars-js-countp-sumne/issues"
+  },
+  "homepage": "https://github.com/PenaSoftwareCraftsman/codewars-js-countp-sumne#readme"
+}
